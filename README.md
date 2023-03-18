@@ -1,8 +1,9 @@
 # SCI-Extracted-Assets
 A repo for storing assets ripped from SCI Games: for use in library artworks, fan works, and fan wikis.
 
-![Sierra Online logo, ripped from QFG3](Quest for Glory III- Wages of War [1207661383.gogdb]/1.p56.bmp)
- ![Walk cycles for Katrina, ripped from QFG4](Quest for Glory IV- Shadows of Darkness [1207661393.gogdb]/792.v56.bmp)
+![Sierra Online logo, ripped from QFG3](/Quest for Glory III- Wages of War [1207661383.gogdb]/1.p56.bmp)
+
+![Walk cycles for Katrina, ripped from QFG4](/Quest for Glory IV- Shadows of Darkness [1207661393.gogdb]/792.v56.bmp)
 
 # Other Resources
 <u>Sierra Online and SCI specifics:</u>
